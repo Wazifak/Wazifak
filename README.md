@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Wazifa
 
-<!--
-**Wazifak/Wazifak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Top 1% Data Scientist | Building Projects for ₹20 LPA Dream  
+💡 Passionate about solving real-world problems with ML & AI  
+📊 Tools: Python, Pandas, Scikit-learn, Power BI, SQL, TensorFlow, NLP
 
-Here are some ideas to get you started:
+## 🚀 Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🛍️ Sales Forecasting | Predict retail sales using ML | Pandas, XGBoost |
+| 🧠 Churn Prediction | Identify customers likely to leave | Logistic Regression, SHAP |
+| 🎬 Movie Recommender | Suggest movies to users | Collaborative Filtering |
+| 📝 Resume Parser NLP | Extract info from resumes | Python, spaCy, Regex |
+
+## 📫 Let’s Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wazifa-kapdi  )
+- 📧 Email: wazifakapde39@email.com
