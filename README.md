@@ -35,8 +35,5 @@
 
 ---
 
-### 📄 Resume
+### 📄 Resume: [Click to View](https://github.com/Wazifak/Wazifak/blob/main/Wazifa_Kapdi_Resume.pdf)
 
-📥 [View Resume (PDF)](https://github.com/Wazifak/Wazifak/blob/main/Wazifa_Kapdi_Resume.pdf)
-
----
