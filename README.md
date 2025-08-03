@@ -5,7 +5,7 @@
 
 💡 **About Me**
 
-🎓 Executive Post Graduate Certification in Data Science & AI from **iHub, IIT Roorkee**  
+🎓 Executive Post Graduate Certification in Data Science & AI from **iHub, IIT Roorkee & IntelliPaat**  
 🎓 BSc in Information Technology (CGPA 9.82), **Mumbai University**  
 💼 Data Science enthusiast with hands-on projects in fraud detection, heart disease prediction, and income classification  
 📍 Based in Pune, Maharashtra  
@@ -37,6 +37,6 @@
 
 ### 📄 Resume
 
-📥 [View Resume (PDF)](https://github.com/Wazifak/Wazifak/blob/main/Wazifa_Kapdi_Resume_V2[1].pdf)
+📥 [View Resume (PDF)](https://github.com/Wazifak/Wazifak/blob/main/Wazifa_Kapdi_Resume.pdf)
 
 ---
